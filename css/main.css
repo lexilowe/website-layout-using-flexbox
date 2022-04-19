@@ -239,10 +239,12 @@ main {
   #div-1,
   #div-2{
       /* set your flex value to 1 50% */
+      
   }
 
   #div-3 {
     /* set your flex value to 1 100% */
+  
   }
 }
 
